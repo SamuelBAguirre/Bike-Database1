@@ -1,0 +1,146 @@
+[ALL BIKES]:
+
+     [ID]        [BIKE]        [COST]   [SIZE]
+----------------------------------------------
+      789        harley          55.5       10
+      567        suzuki          44.5       10
+      456           bmw          33.5       10
+      123        yamaha         23.22       12
+      234         honda          12.5       10
+
+[BIKES ORDERED BY ID]:
+
+     [ID]        [BIKE]        [COST]   [SIZE]
+----------------------------------------------
+      789        harley          55.5       10
+      567        suzuki          44.5       10
+      456           bmw          33.5       10
+      234         honda          12.5       10
+      123        yamaha         23.22       12
+
+[BIKES ORDERED BY MANUF]:
+
+     [ID]        [BIKE]        [COST]   [SIZE]
+----------------------------------------------
+      456           bmw          33.5       10
+      789        harley          55.5       10
+      234         honda          12.5       10
+      567        suzuki          44.5       10
+      123        yamaha         23.22       12
+
+[BIKES AVALIABLE TO RENT]:
+
+     [ID]        [BIKE]        [COST]   [SIZE]
+----------------------------------------------
+      789        harley          55.5       10
+      567        suzuki          44.5       10
+      456           bmw          33.5       10
+      123        yamaha         23.22       12
+      234         honda          12.5       10
+
+[BIKES NOT AVALIABLE TO RENT]:
+
+     [ID]        [BIKE]        [COST]   [SIZE]
+----------------------------------------------
+
+[TRANSACTION]:
+
+     [ID]        [Days]        [COST] [RENTER]
+----------------------------------------------
+      123             3         69.66  Johny A
+
+[BIKES AVALIABLE TO RENT]:
+
+     [ID]        [BIKE]        [COST]   [SIZE]
+----------------------------------------------
+      789        harley          55.5       10
+      567        suzuki          44.5       10
+      456           bmw          33.5       10
+      234         honda          12.5       10
+
+[BIKES NOT AVALIABLE TO RENT]:
+
+     [ID]        [BIKE]        [COST]   [SIZE]
+----------------------------------------------
+      123        yamaha         23.22       12
+
+[RETURING BIKE]:
+
+     [ID]        [Days]        [COST] [RENTER]
+----------------------------------------------
+      123             3         69.66  Johny A
+
+[BIKES AVALIABLE TO RENT]:
+
+     [ID]        [BIKE]        [COST]   [SIZE]
+----------------------------------------------
+      789        harley          55.5       10
+      567        suzuki          44.5       10
+      456           bmw          33.5       10
+      123        yamaha         23.22       12
+      234         honda          12.5       10
+
+[BIKES NOT AVALIABLE TO RENT]:
+
+     [ID]        [BIKE]        [COST]   [SIZE]
+----------------------------------------------
+
+[SORRY - BIKE HAS BEEN RETURNED]:
+
+     [ID]        [Days]        [COST] [RENTER]
+----------------------------------------------
+      123             3         69.66  Johny A
+
+[DELETING BIKE]:
+
+     [ID]        [BIKE]        [COST]   [SIZE]
+----------------------------------------------
+      123        yamaha         23.22       12
+
+[BIKES ORDERED BY ID]:
+
+     [ID]        [BIKE]        [COST]   [SIZE]
+----------------------------------------------
+      789        harley          55.5       10
+      567        suzuki          44.5       10
+      456           bmw          33.5       10
+      234         honda          12.5       10
+
+[ALL BIKES]:
+
+     [ID]        [BIKE]        [COST]   [SIZE]
+----------------------------------------------
+      789        harley          55.5       10
+      567        suzuki          44.5       10
+      456           bmw          33.5       10
+      234         honda          12.5       10
+
+[DELETING BIKE]:
+
+     [ID]        [BIKE]        [COST]   [SIZE]
+----------------------------------------------
+      234         honda          12.5       10
+
+[ALL BIKES]:
+
+     [ID]        [BIKE]        [COST]   [SIZE]
+----------------------------------------------
+      789        harley          55.5       10
+      567        suzuki          44.5       10
+      456           bmw          33.5       10
+
+[BIKES ORDERED BY ID]:
+
+     [ID]        [BIKE]        [COST]   [SIZE]
+----------------------------------------------
+      789        harley          55.5       10
+      567        suzuki          44.5       10
+      456           bmw          33.5       10
+
+[BIKES ORDERED BY MANUF]:
+
+     [ID]        [BIKE]        [COST]   [SIZE]
+----------------------------------------------
+      456           bmw          33.5       10
+      789        harley          55.5       10
+      567        suzuki          44.5       10
